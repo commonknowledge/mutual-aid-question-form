@@ -33,19 +33,14 @@
       <h1 class="title">Ask Your Question</h1>
       <form
         action="/thanks.html"
+        netlify-honeypot="bots-fill-this-in-dont-they"
         name="contact"
         method="POST"
         data-netlify="true"
       >
-        <input
-          type="hidden"
-          name="_redirect"
-          value="https://mutual-aid-questions.netlify.com/thanks.html"
-        />
         <div class="field">
           <input
-            type="checkbox"
-            name="_honeypot"
+            name="bots-fill-this-in-dont-they"
             style="display:none"
             tabindex="-1"
             autocomplete="off"
