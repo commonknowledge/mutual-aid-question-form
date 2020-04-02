@@ -1,0 +1,14 @@
+{
+  "name": "mutual-aid-form",
+  "version": "0.0.1",
+  "description": "A very simple form for asking questions on mutual aid and security.",
+  "main": "index.js",
+  "author": "Common Knowledge <hello@commonknowledge.coop>",
+  "license": "MIT",
+  "scripts": {
+    "start": "http-server"
+  },
+  "devDependencies": {
+    "http-server": "^0.12.1"
+  }
+}
