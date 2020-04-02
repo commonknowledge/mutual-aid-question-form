@@ -1,0 +1,11 @@
+[[redirects]]
+  from = "http://mutual-aid-questions.netlify.com/*"
+  to = "https://mutual-aid-questions.netlify.com/:splat"
+  status = 301
+  force = true
+
+[[redirects]]
+  from = "http://qa.commonknowledge.coop/*"
+  to = "https://qa.commonknowledge.coop/:splat"
+  status = 301
+  force = true
