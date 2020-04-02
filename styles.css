@@ -2,4 +2,13 @@ body {
   margin-left: 20px;
   margin-right: 20px;
   margin-top: 40px;
+  font-family: Manrope;
+}
+
+.is-correct-blue {
+}
+
+@font-face {
+  font-family: "Manrope";
+  src: url("fonts/Manrope-Regular.woff");
 }
