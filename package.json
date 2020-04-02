@@ -4,7 +4,6 @@
   "description": "A very simple form for asking questions on mutual aid and security.",
   "main": "index.js",
   "author": "Common Knowledge <hello@commonknowledge.coop>",
-  "license": "MIT",
   "scripts": {
     "start": "http-server"
   },
